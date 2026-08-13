@@ -22,6 +22,10 @@ __pycache__/
 #models/
 catboost_info/
 
+# csv 파일 무시
+*.csv
+
+
 cifar*
 cifar*.*
 /02_cnn/data/train_32x32.mat
