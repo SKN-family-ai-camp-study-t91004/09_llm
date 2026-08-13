@@ -26,6 +26,7 @@ catboost_info/
 *.csv
 
 
+
 cifar*
 cifar*.*
 /02_cnn/data/train_32x32.mat
